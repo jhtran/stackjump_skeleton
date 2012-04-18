@@ -1,0 +1,2 @@
+chef-server-webui chef-server-webui/admin_password password lkvCqeFGED
+chef-solr chef-solr/amqp_password password lkvCqeFGED
