@@ -16,6 +16,13 @@ You can modify any of these files to customize your installation.
 	stackjump_skeleton/root/chef-solo/cookbooks/chef-server/files/default/chef-server.seed
 	stackjump_skeleton/root/chef-solo/cookbooks/chef-server/recipes/default.rb
 
+## Usage
+
+	$ stackjump -g git@github.com:jhtran/stackjump_skeleton.git
+OR
+	$ git clone git@github.com:jhtran/stackjump_skeleton.git
+	$ stackjump -d ./stackjump_skeleton
+
 ## Empty skeleton
 
 These exist only to get you started.  They are empty but hopefully you get the idea.
