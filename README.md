@@ -8,7 +8,7 @@ You can modify any of these files to customize your installation.
 
 ## Essential Files
 
-*if u don't pass a preseed on the cmd line it needs to be here named as such
+* if u don't pass a preseed on the cmd line it needs to be here named as such
 ** stackjump_skeleton/preseed.cfg	
 
 	# This will run the first time the OS boots and not anytime after
