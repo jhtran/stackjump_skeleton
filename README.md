@@ -1,4 +1,4 @@
-# Stackjump Git Skeleton
+# Stackjump Skeleton
 
 Basic directory skeleton to be injected into the OS install by stackjump
 
