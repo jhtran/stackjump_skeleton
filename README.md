@@ -20,8 +20,7 @@ You can modify any of these files to customize your installation.
 
 These exist only to get you started.  They are empty but hopefully you get the idea.
 
-	stackjump_skeleton/root/.ssh
 	stackjump_skeleton/root/.ssh/authorized_keys
-	stackjump_skeleton/home/ubuntu
+	stackjump_skeleton/home/ubuntu/.ssh/authorized_keys
 	stackjump_skeleton/etc
 	stackjump_skeleton/usr
