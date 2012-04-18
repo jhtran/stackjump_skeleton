@@ -7,7 +7,7 @@ The files that exist in this are the basic essential files needed by stackjump.
 You can modify any of these files to customize your installation.
 
 ## Essential Files
-<font color='red'>if u don't pass a preseed on the cmd line it needs to be here named as such</font>
+blah <font color='red'>if u don't pass a preseed on the cmd line it needs to be here named as such</font>
 
 	stackjump_skeleton/preseed.cfg
 	stackjump_skeleton/root
