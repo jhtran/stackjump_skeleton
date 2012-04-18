@@ -8,6 +8,7 @@ You can modify any of these files to customize your installation.
 
 ## Essential Files
 <font color='red'>if u don't pass a preseed on the cmd line it needs to be here named as such</font>
+
 	stackjump_skeleton/preseed.cfg
 	stackjump_skeleton/root
 	stackjump_skeleton/root/first_run.sh  # This will run the first time the OS boots and not anytime after
