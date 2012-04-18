@@ -19,7 +19,9 @@ You can modify any of these files to customize your installation.
 ## Usage
 
 	$ stackjump -g git@github.com:jhtran/stackjump_skeleton.git
+
 OR
+
 	$ git clone git@github.com:jhtran/stackjump_skeleton.git
 	$ stackjump -d ./stackjump_skeleton
 
