@@ -1,4 +1,5 @@
 {
-  "run_list": [ "recipe[chef-server::default]" ]
+  "run_list": [ "recipe[chef-server::default]" ],
+  "_comment": "stackjump default solo.json"
 }
 
