@@ -28,6 +28,7 @@ other files, they will automatically be created and injected by stackjump using 
 	stackjump_skeleton/root/chef-solo/cookbooks/chef-server/recipes/default.rb
 
 ## Usage
+See [stackjump](http://github.com/jhtran/stackjump)
 
 	$ stackjump -g git@github.com:jhtran/stackjump_skeleton.git
 
