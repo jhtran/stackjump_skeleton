@@ -1,6 +1,6 @@
 # Stackjump Directory Skeleton
 
-Basic directory skeleton to be injected into the OS install by stackjump
+Example directory skeleton to be injected into the OS install by stackjump
 
 The files that exist in this are the basic essential files needed by stackjump.
 
