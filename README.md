@@ -11,6 +11,10 @@ Also note, this is just an example of a directory skeleton to use with stackjump
 Feel free to create your own skeleton!
 
 ## Essential Files
+NOTE the only following file absolutely required to exist in your directory skeleton is
+'preseed.cfg' (in the dir root and spelled exactly as such).  If your skeleton doesn't have the
+other files, they will automatically be created and injected by stackjump using default values.
+
 	# if u don't pass a preseed on the cmd line it needs to be here named as such
 	stackjump_skeleton/preseed.cfg	
 	# This will run the first time the OS boots and not anytime after
