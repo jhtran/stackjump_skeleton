@@ -6,3 +6,4 @@ chmod 400 /root/.ssh/authorized_keys
 sed -i 's,quiet splash,quiet,' /etc/default/grub
 echo 'GRUB_GFXPAYLOAD_LINUX=text' >> /etc/default/grub
 sed -i 's,exit 0,sh /root/first_run.sh,' /etc/rc.local;
+# stackjump default late_command.sh
