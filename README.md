@@ -8,7 +8,7 @@ You can modify any of these files to customize your installation.
 
 Also note, this is just an example of a directory skeleton to use with stackjump, not a requirement. 
 
-Feel free to create your own skeleton root dir.
+Feel free to create your own skeleton!
 
 ## Essential Files
 	# if u don't pass a preseed on the cmd line it needs to be here named as such
