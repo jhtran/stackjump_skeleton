@@ -28,6 +28,9 @@ other files, they will automatically be created and injected by stackjump using 
 	stackjump_skeleton/root/chef-solo/cookbooks/chef-server/recipes/default.rb
 
 ## Usage
+
+NOTE: if  you use the default preseed in this skeleton the default root password is 'none' spelled exactly as such, but it is advised that you should change it to something more secure.
+
 See [stackjump](http://github.com/jhtran/stackjump)
 
 	$ stackjump -g git@github.com:jhtran/stackjump_skeleton.git
