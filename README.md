@@ -29,7 +29,7 @@ other files, they will automatically be created and injected by stackjump using 
 
 ## Usage
 
-NOTE: if  you use the default preseed in this skeleton the default root password is 'none' spelled exactly as such, but it is advised that you should change it to something more secure.
+NOTE: if  you use the default preseed in this skeleton the default root password is 'none' spelled exactly as such, but it is recommended that you should change it to something more secure.
 
 See [stackjump](http://github.com/jhtran/stackjump)
 
